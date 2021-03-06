@@ -39,7 +39,7 @@ body {
 }
 
 .craving-img {
-    background-image: url(craving.jpg);
+    background-image: url(images/craving.jpg);
     width: 100%;
     height: 500px;
     background-repeat: repeat-x;
@@ -69,7 +69,7 @@ h1 {
 }
 
 .main-background-img {
-    background-image: url(background.jpg);
+    background-image: url(images/background.jpg);
     width: 100%;
     background-repeat: no-repeat;
     background-size: cover;
